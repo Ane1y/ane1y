@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am a final year master's student at ITMO majoring in [software engineering](https://mse.itmo.ru/)
+- You can contact me on Telegram: [Anely](t.me/Anely)
+
